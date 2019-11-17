@@ -9,3 +9,5 @@ Job Application Graphical User Interface coded in python that allows user to pop
 -Extra Notes (scrollable textbox) <br>
 
 Upon clicking "Click to Register!" button, the information is saved to a csv file.
+
+Setup file is included under build/exe.win-amd64-3.7
